@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitin-ravinder
 - 👀 I’m interested in Earth obveration applications in the polar regions
-- 🌱 I’m currently wokring as post-graduate researcher at University of Leeds, focusing on the Greenland and Antarctic Ice Sheets
+- 🌱 I’m currently working as post-graduate researcher at University of Leeds, focusing on the Greenland and Antarctic Ice Sheets
 - 📫 You can get in touch with me by email: nitin.ravinder29@gmail.com
 
 <!---
